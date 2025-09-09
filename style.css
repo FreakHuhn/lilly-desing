@@ -336,12 +336,11 @@ body {
   background: #1c8fbd;
   background: linear-gradient(
     90deg,
-    rgba(131, 58, 180, 1) 0%,
-    rgba(253, 29, 29, 1) 50%,
-    rgba(252, 176, 69, 1) 100%
+    rgba(131, 58, 180, 0.479) 0%,
+    rgba(253, 29, 29, 0.479) 50%,
+    rgba(252, 176, 69, 0.548) 100%
   );
   border-radius: 10px;
-  z-index: 1000;
 }
 hr {
   border: 0;
