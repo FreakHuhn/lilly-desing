@@ -1,7 +1,7 @@
 # Lillys Portfolio – Modedesign (3. Semester)
 
 Dieses Projekt entstand im Rahmen meiner Umschulung zum **Fachinformatiker für Anwendungsentwicklung**.  
-Im Themenblock _HTML & Webentwicklung_ habe ich für meine beste Freundin – sie studiert Modedesign im 3. Semester an der Hochschule Trier – eine kleine Website umgesetzt.
+Im Themenblock _HTML & CSS_ habe ich für meine beste Freundin – sie studiert Modedesign im 3. Semester an der Hochschule Trier – eine kleine Website umgesetzt.
 
 Das Ziel:  
 Ein **leichtes, statisches Webportfolio**, das Lilly später in Bewerbungen als Referenz mitschicken kann.  
